@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="assets/telegram-gift-sniper-banner.png" alt="Telegram Gift Sniper Bot Banner" width="1000">
+  <img src="assets/release.png" alt="Telegram Gift Sniper Bot Banner" width="1000">
 </div>
 
 ---
