@@ -1,0 +1,24 @@
+{
+"name": "telegram-gift-sniper-ts-mini",
+"version": "0.1.0",
+"description": "Mini TypeScript project scaffold for Telegram Gift Sniper (demo / simulation)",
+"main": "dist/index.js",
+"scripts": {
+"build": "tsc",
+"start": "ts-node src/index.ts",
+"start:prod": "node dist/index.js",
+"lint": "echo \"No linter configured\""
+},
+"keywords": ["telegram", "gifts", "sniper", "typescript", "demo"],
+"author": "",
+"license": "MIT",
+"dependencies": {
+"inquirer": "^9.0.0"
+},
+"devDependencies": {
+"ts-node": "^10.9.1",
+"typescript": "^5.0.0",
+"@types/node": "^20.0.0",
+"@types/inquirer": "^9.0.3"
+}
+}
