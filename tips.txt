@@ -1,3 +1,4 @@
 # Daily Notes
 Verify API endpoints
 Note follow-up actions
+Review MFA adoption
